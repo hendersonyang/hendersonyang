@@ -1,4 +1,4 @@
-### Hi there, I'm Henderson 👋 ![Profile Views](https://gpvc.arturio.dev/hendersonyang)
+### Hello there, I'm Henderson 👋 ![Profile Views](https://gpvc.arturio.dev/hendersonyang)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hendersonyang&hide=true&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendersonyang&show_icons=true&hide_border=true&theme=tokyonight)
