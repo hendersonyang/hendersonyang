@@ -1,8 +1,21 @@
 # Hello there, I'm [Henderson](https://magicalcat.xyz/) 👋
 
-#### I’m currently working on [Private Project](https://www.youtube.com/watch?v=xvFZjo5PgG0).
+### I am experienced with
+- Node.JS
+  - Express
+  - MongoDB
+  - NextJS
+  - DiscordJS
+  - Axios
+### I am currently learning
+- Web3
+  - Crypto
+  - NFTS
+  - IPFS
+- HTML5
+  - PixiJS
+- Artifical Intelligence
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hendersonyang&hide=true&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendersonyang&show_icons=true&hide_border=true&theme=tokyonight)
 
 <!--
